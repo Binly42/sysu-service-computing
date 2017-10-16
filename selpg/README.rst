@@ -33,7 +33,9 @@ resource
 使用方式与 selpg 相同;
 
 例:
+    
     `go build main.go`
+    
     `./main.exe -s 1 -e 2 -l 3 input_flie`
 
 
