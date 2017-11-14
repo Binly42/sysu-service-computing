@@ -14,5 +14,18 @@
 .glide/
 
 
+
 # binly
-binly.recycle/
+
+**/binly.recycle/
+**/binly.log/
+.vscode/
+
+
+# ignore storage files
+
+**/.agenda.d/*
+!**/.agenda.d/config.json
+
+**/.cloudgo.d/*
+!**/.cloudgo.d/config.json
